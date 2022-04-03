@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devGbarbosa
 - 👀 I’m interested in web, mobile and API development
-- 🌱 I’m currently learning React Native, Typescript and Nest.js
+- 🌱 I’m currently learning and working with React Native and Nest.js
 - 📫 How to reach me: barbosagdev@gmail.com
 
 <!---
