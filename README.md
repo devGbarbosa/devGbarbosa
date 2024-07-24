@@ -25,7 +25,14 @@ I'm a passionate software engineer with a strong focus on mobile development. My
   - Cognito
   - DynamoDB
   - Amplify
+- Google Cloud Ecosystem
+  - Cloud Functions
+  - Cloud Run
+  - Identity
+  - Firestore
+  - Firebase
 - SQL
+- Postgres
 
 ## 📫 Get in Touch
 
